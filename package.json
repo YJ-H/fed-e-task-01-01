@@ -1,0 +1,18 @@
+{
+  "name": "fed-e-task-01-01",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:YJ-H/fed-e-task-01-01.git",
+  "author": "YJ-H <a910102423@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "flow-bin": "^0.125.1"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.8.4",
+    "@babel/core": "^7.9.6",
+    "@babel/preset-flow": "^7.9.0",
+    "flow-remove-types": "^2.125.1",
+    "typescript": "^3.9.3"
+  }
+}

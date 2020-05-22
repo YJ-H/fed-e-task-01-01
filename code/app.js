@@ -62,3 +62,13 @@
 // console.log(personProxy.name)
 // personProxy.name = 'yj1'
 // console.log(personProxy.name)
+// var a = 10
+// var obj = {
+//   a: 20,
+//   fn () {
+//     setTimeout(function () {
+//       console.log(this.a)
+//     },0)
+//   }
+// }
+// obj.fn()
